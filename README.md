@@ -6,7 +6,11 @@ Hearthgen is a python library using selenium webdriver to access
 https://hearthcards.net/ and hearthstone cards inside python.
 
 # Installing
-You can install hearthgen from PyPi:
+You can install hearthgen from Github:
+```
+pip install https://github.com/h4x4d/hearthgen/blob/main/archive/hearthgen-0.0.1.tar.gz
+```
+Or from PyPi:
 ```
 pip install hearthgen
 ```
