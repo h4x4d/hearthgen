@@ -15,7 +15,7 @@ Or from PyPi:
 pip install hearthgen
 ```
 
-#Using hearthgen
+# Using hearthgen
 
 You can create card with 2 different methods:
 - Using function create_card()
