@@ -8,7 +8,7 @@ https://hearthcards.net/ and make hearthstone cards inside python.
 # Installing
 You can install hearthgen from Github:
 ```
-pip install https://github.com/h4x4d/hearthgen/blob/main/archive/hearthgen-0.0.1.tar.gz
+pip install https://github.com/h4x4d/hearthgen/blob/main/archive/hearthgen-0.0.2.tar.gz
 ```
 Or from PyPi:
 ```
